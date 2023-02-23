@@ -1,20 +1,19 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/4KkSbPnZ5Skec/giphy.gif"  alt="mypic" width="140"/>
-
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/edmond-a-b-tchamie-b65995188/"> 
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="https://medium.com/@tchamieedmond">
+            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium badges" />
+        </a>
+        <a href="https://twitter.com/Tdmund_">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+        </a>
+    </div>
 </div>
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/edmond-a-b-tchamie-b65995188/"> 
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://medium.com/@tchamieedmond">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium badges" />
-    </a>
-    <a href="https://twitter.com/Tdmund_">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-</div>
 
 ### Hi there 👋
 
@@ -22,11 +21,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 - - -
 
 ### :man_technologist: About Me:
 
-I am a Tech Explorer <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/giphy.gif" width="40" /> from Lunar Planet.
+I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/giphy.gif" width="40" /> from Lunar Planet.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -35,6 +40,7 @@ I am a Tech Explorer <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 - - -
 
