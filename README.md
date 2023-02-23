@@ -24,6 +24,18 @@
 ### This week I spent my time on
 
 <!--START_SECTION:waka-->
+
+```text
+From: 03 February 2023 - To: 22 February 2023
+
+Total Time: 11 hrs 22 mins
+
+Markdown     10 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.28 %
+Java         52 mins         >>-----------------------   07.77 %
+YAML         3 mins          -------------------------   00.54 %
+Other        1 min           -------------------------   00.23 %
+```
+
 <!--END_SECTION:waka-->
 
 
