@@ -59,7 +59,7 @@ I am a Tech Explorer <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
 
   <div align="center">
-    <img src="https://github.com/Tcarters/Tcarters/blob/master/pics/pipeline.gif" alt="mypipeline" width="50"/>
+    <img src="https://github.com/Tcarters/Tcarters/blob/master/pics/pipeline.gif" alt="mypipeline" width="100"/>
   </div>
 </div>
 
