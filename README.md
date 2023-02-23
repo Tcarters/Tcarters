@@ -56,15 +56,33 @@ I am a Tech Explorer <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
 
   <div align="center">
-    
+    <img src="https://github.com/Tcarters/Tcarters/blob/master/pics/pipeline.gif" alt="mypipeline" width="50"/>
   </div>
 </div>
+
+
+
+- - -
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tcarters&show_icons=true&theme=radical)
+
+
+- - -
+
+### :writing_hand: Blog Posts :
+
 <!--
 **Tcarters/Tcarters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 -->
