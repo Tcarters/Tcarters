@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 22 February 2023
+From: 03 February 2023 - To: 23 February 2023
 
-Total Time: 11 hrs 22 mins
+Total Time: 16 hrs 6 mins
 
-Markdown     10 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.28 %
-Java         52 mins         >>-----------------------   07.77 %
-YAML         3 mins          -------------------------   00.54 %
-Other        1 min           -------------------------   00.23 %
+Markdown     14 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.67 %
+Java         52 mins         >------------------------   05.48 %
+YAML         43 mins         >------------------------   04.55 %
+Other        1 min           -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
