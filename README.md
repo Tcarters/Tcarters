@@ -1,6 +1,8 @@
 ### Hey World  👋 :earth_asia: , greeting from xAlien Planet 
 ![Profile views](https://gpvc.arturio.dev/Tcarters)
 
+- - -
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/4KkSbPnZ5Skec/giphy.gif"  alt="mypic" width="140"/>
     <div id="badges">
@@ -15,9 +17,11 @@
         </a>
     </div>
 </div>
-- - -
 
-<div style="width: 50%; float: right">
+|:------------------------------------------------------- | ---------------:|
+
+<div align="center">
+<div style="width: 60%; float: left">
 
 <!-- <div align="left"> -->
 - 🔭 I’m currently working on DevOps agile culture ...
@@ -31,7 +35,9 @@
 </div>
 
 <div style="width: 40%; float: right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
+
 </div>
 
 ## :memo: Quick Overview :memo:
@@ -94,7 +100,7 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 
 ### :fire: My Stats :
 
-![Profile views](https://gpvc.arturio.dev/Tcarters)
+<!-- ![Profile views](https://gpvc.arturio.dev/Tcarters) -->
 
 <!-- ![Profile viewsk](https://hits.dwyl.com/Tcarters/Tcarters.svg)](https://hits.dwyl.com/Tcarters/Tcarters) -->
 
