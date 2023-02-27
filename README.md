@@ -89,6 +89,8 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 
 ![Profile views](https://gpvc.arturio.dev/[Tcarters])
 
+![Visitor Count](https://profile-counter.glitch.me/{Tcarters}/count.svg)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
