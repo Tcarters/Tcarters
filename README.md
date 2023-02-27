@@ -15,12 +15,23 @@
 </div>
 
 
-### Hey World  👋
+### Hey World  👋 :earth_asia: , greeting from xAlien Planet 
+![Profile views](https://gpvc.arturio.dev/Tcarters)
 
-<div align="center">
+- 🔭 I’m currently working on DevOps agile culture ...
+- 🌱 I’m currently revising Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus ...
+- 👯 I’m looking to collaborate on DevOps projects, even I',m still not experienced
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about something you believe you know well ...
+- 📫 How to reach me: direct call to Lunar Planet ...
+- 😄 Pronouns: Abstract ...
+- ⚡ Fun fact: Don't trust the process, create One, believe in it share and ``TRUST GOD ``...
+
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+## :memo: Quick Overview :memo:
 ### This week I spent my time on
 
 <!--START_SECTION:waka-->
@@ -44,14 +55,7 @@ Other        1 min           -------------------------   00.11 %
 ### :man_technologist: About Me:
 
 I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/giphy.gif" width="40" /> from Lunar Planet.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 - - -
@@ -87,9 +91,12 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 
 ### :fire: My Stats :
 
-![Profile views](https://gpvc.arturio.dev/[Tcarters])
+![Profile views](https://gpvc.arturio.dev/Tcarters)
 
-![Visitor Count](https://profile-counter.glitch.me/{Tcarters}/count.svg)
+<!-- ![Profile viewsk](https://hits.dwyl.com/Tcarters/Tcarters.svg)](https://hits.dwyl.com/Tcarters/Tcarters) -->
+
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{Tcarters}/count.svg) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats)
 
