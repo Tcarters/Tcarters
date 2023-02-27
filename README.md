@@ -1,4 +1,4 @@
-### Hey World  👋 :earth_asia: , greeting from xAlien Planet 
+### Hey World  👋 :earth_asia: , I'm Tdmund Carters from xAlien Planet 
 ![Profile views](https://gpvc.arturio.dev/Tcarters)
 
 - - -
@@ -35,7 +35,7 @@
 </div>
 
 <div style="width: 40%; float: right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
 </div>
 
 </div>
