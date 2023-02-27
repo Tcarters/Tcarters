@@ -1,3 +1,5 @@
+### Hey World  👋 :earth_asia: , greeting from xAlien Planet 
+![Profile views](https://gpvc.arturio.dev/Tcarters)
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/4KkSbPnZ5Skec/giphy.gif"  alt="mypic" width="140"/>
@@ -13,11 +15,11 @@
         </a>
     </div>
 </div>
+- - -
 
+<div style="width: 50%; float: right">
 
-### Hey World  👋 :earth_asia: , greeting from xAlien Planet 
-![Profile views](https://gpvc.arturio.dev/Tcarters)
-
+<!-- <div align="left"> -->
 - 🔭 I’m currently working on DevOps agile culture ...
 - 🌱 I’m currently revising Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus ...
 - 👯 I’m looking to collaborate on DevOps projects, even I',m still not experienced
@@ -26,8 +28,9 @@
 - 📫 How to reach me: direct call to Lunar Planet ...
 - 😄 Pronouns: Abstract ...
 - ⚡ Fun fact: Don't trust the process, create One, believe in it share and ``TRUST GOD ``...
+</div>
 
-<div align="left">
+<div style="width: 40%; float: right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
