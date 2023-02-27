@@ -18,13 +18,18 @@
     </div>
 </div>
 
-|:------------------------------------------------------- | ---------------:|
+
+<div >
+<!-- align="center"> -->
 
 <div align="center">
-<div style="width: 60%; float: left">
+  <img align="right" alt="mygif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="50%"/>
+</div>
+
+<div align="left">
 
 <!-- <div align="left"> -->
-- 🔭 I’m currently working on DevOps agile culture ...
+<p align="left"> 🔭 I’m currently working on DevOps agile culture ...
 - 🌱 I’m currently revising Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus ...
 - 👯 I’m looking to collaborate on DevOps projects, even I',m still not experienced
 - 🤔 I’m looking for help with ...
@@ -32,11 +37,11 @@
 - 📫 How to reach me: direct call to Lunar Planet ...
 - 😄 Pronouns: Abstract ...
 - ⚡ Fun fact: Don't trust the process, create One, believe in it share and ``TRUST GOD ``...
+</p>
+
 </div>
 
-<div style="width: 40%; float: right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
-</div>
+
 
 </div>
 
