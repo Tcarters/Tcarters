@@ -99,10 +99,10 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Containerizing a SpringBoot Application using a Jenkins pipeline and publish it to DockerHub.](https://tchamieedmond.medium.com/containerizing-a-springboot-application-using-a-jenkins-pipeline-and-publish-it-to-dockerhub-26270e041740?source=rss-3a631de28a0e------2)
 - [Setup Docker container as Build Slaves for Jenkins for a Dynamic Provisioning](https://tchamieedmond.medium.com/setup-docker-container-as-build-slaves-for-jenkins-for-a-dynamic-provisioning-769d95d7ee0d?source=rss-3a631de28a0e------2)
 - [How to create a custom Docker image with centos, JDK8 and  Maven in the case of Jenkins…](https://tchamieedmond.medium.com/how-to-create-a-custom-docker-image-with-centos-jdk8-and-maven-in-the-case-of-jenkins-6f28a4628b3c?source=rss-3a631de28a0e------2)
 - [Create a quick Distributed multi nodes Cluster with Jenkins using a Master node in Rhel8 Os and 3…](https://tchamieedmond.medium.com/create-a-quick-distributed-multi-nodes-cluster-with-jenkins-using-a-master-node-in-rhel8-os-and-3-fe62caf2b340?source=rss-3a631de28a0e------2)
-- [Helm Chart App in Kubernetes using AWS ec2 instances](https://tchamieedmond.medium.com/helm-chart-app-in-kubernetes-using-aws-ec2-instances-7782f29bcab0?source=rss-3a631de28a0e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
