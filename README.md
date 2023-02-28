@@ -112,18 +112,30 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 ### :fire: My Stats :
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Tcarters) -->
-
 <!-- ![Profile viewsk](https://hits.dwyl.com/Tcarters/Tcarters.svg)](https://hits.dwyl.com/Tcarters/Tcarters) -->
-
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{Tcarters}/count.svg) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats)
+|       |       |
+|-------|-------|
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)     |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <div> -->
+<!-- <div align="left"> -->
 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=Tcarters&theme=dark&background=000000" width="50%" height="45%" alt="streak" /> -->
+<!-- </div> -->
+
+<!-- <div align="right"> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcarters&layout=compact&theme=vision-friendly-dark" width="50%" height="45%" /> -->
+<!-- </div> -->
+    
+<!-- </div> -->
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tcarters&show_icons=true&theme=radical)
-
+<!-- <img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=Tcarters&show_icons=true&theme=radical" alt="Github Stars" />
+ -->
 
 - - -
 
