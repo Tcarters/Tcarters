@@ -22,31 +22,32 @@
 <div >
 <!-- align="center"> -->
 
-<div align="center">
-  <img align="right" alt="mygif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="50%"/>
+<div align="right">
+  <img align="right" alt="mygif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30%" height="50%"/>
 </div>
-
-<div align="left">
 
 <!-- <div align="left"> -->
-<p align="left"> 🔭 I’m currently working on DevOps agile culture ...
-- 🌱 I’m currently revising Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus ...
-- 👯 I’m looking to collaborate on DevOps projects, even I',m still not experienced
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about something you believe you know well ...
-- 📫 How to reach me: direct call to Lunar Planet ...
-- 😄 Pronouns: Abstract ...
-- ⚡ Fun fact: Don't trust the process, create One, believe in it share and ``TRUST GOD ``...
-</p>
-
+<!-- <div align="left"> -->
+<!-- <p align="left">   -->
+    
+<p align="left">🔭 I’m currently working on__ <strong> DevOps agile culture ...</strong></p>
+<p align="left">🌱 I’m currently revising__ <em> Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus </em>...</p>
+<p align="left">👯 I’m looking to collaborate on__ DevOps projects, even I'm still not experienced </p>
+<p align="left">🤔 I’m looking for help with__  ... </p>
+<p align="left">💬 Ask me about__ something you believe you know well ... </p>
+<p align="left">📫 How to reach me__ <strong><i>direct call to Lunar Planet ...</i></strong></p>
+<p align="left">😄 Pronouns: <strong>Abstract ...</strong> </p>
+<p align="left">⚡ Fun fact: Don't trust the process, create One, believe in it share and <strong>``TRUST GOD ``</strong>...</p>
+    
+    
+<!-- </p> -->
+<!-- </div> -->
 </div>
 
-
-
-</div>
+- - -
 
 ## :memo: Quick Overview :memo:
-### This week I spent my time on
+#### This week I spent my time on
 
 <!--START_SECTION:waka-->
 
@@ -93,10 +94,15 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+    
 
-  <div align="center">
+  <div align="right">
     <img src="https://github.com/Tcarters/Tcarters/blob/master/pics/pipeline.gif" alt="mypipeline" width="600"/>
   </div>
+  <br/>
+    
+
+
 </div>
 
 
