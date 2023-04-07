@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 04 April 2023
+From: 03 February 2023 - To: 05 April 2023
 
-Total Time: 88 hrs 44 mins
+Total Time: 95 hrs 53 mins
 
-Markdown     38 hrs 49 mins  >>>>>>>>>>>--------------   43.75 %
-Other        29 hrs 13 mins  >>>>>>>>-----------------   32.93 %
+Markdown     41 hrs 39 mins  >>>>>>>>>>>--------------   43.45 %
+Other        29 hrs 13 mins  >>>>>>>>-----------------   30.48 %
 ```
 
 <!--END_SECTION:waka-->
