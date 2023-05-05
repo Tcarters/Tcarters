@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 02 May 2023
+From: 03 February 2023 - To: 03 May 2023
 
-Total Time: 129 hrs 5 mins
+Total Time: 129 hrs 20 mins
 
-Markdown     48 hrs 40 mins  >>>>>>>>>----------------   37.71 %
-Other        30 hrs 5 mins   >>>>>>-------------------   23.31 %
+Markdown     48 hrs 41 mins  >>>>>>>>>----------------   37.64 %
+Other        30 hrs 5 mins   >>>>>>-------------------   23.26 %
 ```
 
 <!--END_SECTION:waka-->
