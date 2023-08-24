@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2023 - To: 21 August 2023
+From: 03 February 2023 - To: 22 August 2023
 
-Total Time: 146 hrs 45 mins
+Total Time: 146 hrs 46 mins
 
-Markdown     60 hrs 10 mins  >>>>>>>>>>---------------   41.01 %
+Markdown     60 hrs 12 mins  >>>>>>>>>>---------------   41.02 %
 Other        30 hrs 10 mins  >>>>>--------------------   20.56 %
 JavaScript   13 hrs 8 mins   >>-----------------------   08.95 %
 TypeScript   7 hrs 57 mins   >------------------------   05.42 %
