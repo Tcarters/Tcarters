@@ -1,5 +1,6 @@
 ### Hey World  👋 :earth_asia: , I'm Tdmund Carters from xAlien Planet 
-![Profile views](https://gpvc.arturio.dev/Tcarters)
+<!-- ![Profile views](https://gpvc.arturio.dev/Tcarters) -->
+![](https://komarev.com/ghpvc/?username=Tcarters&abbreviated=true)
 
 - - -
 
