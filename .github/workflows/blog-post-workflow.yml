@@ -17,4 +17,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://medium.com/feed/@tchamieedmond"
+          feed_list: "https://medium.com/@tchamieedmond"
