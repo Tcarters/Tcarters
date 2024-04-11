@@ -30,7 +30,7 @@
 <!-- <div align="left"> -->
 <!-- <p align="left">   -->
     
-<p align="left">🔭 I’m currently working on__ <strong> DevOps agile culture ...</strong></p>
+<p align="left">🔭 I’m currently working on__ <strong> Automation ...</strong></p>
 <p align="left">🌱 I’m currently revising__ <em> Ansible in Network Automation ,Aws Cloud ,Jenkins, Nexus </em>...</p>
 <p align="left">👯 I’m looking to collaborate on__ DevOps projects, even I'm still not experienced </p>
 <p align="left">🤔 I’m looking for help with__  ... </p>
@@ -75,7 +75,7 @@ JSON         2 hrs 30 mins   -------------------------   01.56 %
 
 ### :man_technologist: About Me:
 
-I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/giphy.gif" width="40" /> from Lunar Planet.
+I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <img src="https://media.giphy.com/media/3o6wrAeJMzl9gsJP8I/giphy.gif" width="40" /> from X.
 
 
 
