@@ -149,10 +149,10 @@ I am a Tech Explorer with enthusiats in DevOps Agile as well as Cybersecurity <i
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 03: Deploying Azure Bastion Service &amp; Custom Bastion Host VM with Terraform for Secure Web…](https://tchamieedmond.medium.com/day-03-deploying-azure-bastion-service-custom-bastion-host-vm-with-terraform-for-secure-web-b63918557dbc?source=rss-3a631de28a0e------2)
 - [Day 02: Deploying a Custom Linux VM with HTTP Server and Connected VNet Subnet on Azure Using…](https://tchamieedmond.medium.com/day-02-deploying-a-custom-linux-vm-with-http-server-and-connected-vnet-subnet-on-azure-using-f7c9a47f0d56?source=rss-3a631de28a0e------2)
 - [Day 01: Mastering a 4-Tier Azure Network — How to Design a Secure Virtual Network with Terraform](https://tchamieedmond.medium.com/day-01-mastering-a-4-tier-azure-network-how-to-design-a-secure-virtual-network-with-terraform-af6c9a3df082?source=rss-3a631de28a0e------2)
 - [Containerizing a SpringBoot Application using a Jenkins pipeline and publish it to DockerHub.](https://tchamieedmond.medium.com/containerizing-a-springboot-application-using-a-jenkins-pipeline-and-publish-it-to-dockerhub-26270e041740?source=rss-3a631de28a0e------2)
-- [Setup Docker container as Build Slaves for Jenkins for a Dynamic Provisioning](https://tchamieedmond.medium.com/setup-docker-container-as-build-slaves-for-jenkins-for-a-dynamic-provisioning-769d95d7ee0d?source=rss-3a631de28a0e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
